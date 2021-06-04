@@ -1,0 +1,23 @@
+@font-face {
+    font-family: indie-flower;
+    src: url('Indie_Flower/IndieFlower-Regular.ttf');
+}
+
+body{
+    background: radial-gradient(circle, #ffd180 0%, #fff8e1 50%, #ffd180 100%);
+}
+
+
+nav{
+    background: #d84315;
+    background: radial-gradient(circle, #e64a19 0%, #ff7d47 50%, #d84315 100%);
+}
+
+.iflower{
+    font-family: indie-flower;
+}
+
+.brandIcon{
+    max-width: 48px;
+    max-height: 48px;
+}

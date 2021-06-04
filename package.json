@@ -1,0 +1,18 @@
+{
+  "name": "the_martian_base",
+  "version": "1.0.0",
+  "description": "LCSE final project add-ons",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "devis12"
+  ],
+  "author": "devis12",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
